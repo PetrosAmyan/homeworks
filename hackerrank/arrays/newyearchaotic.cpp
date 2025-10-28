@@ -15,4 +15,4 @@ void minimumBribes(vector<int> q) {
     }
 
     std::cout << minimumBribes << "\n";   
-	}		
+}		
